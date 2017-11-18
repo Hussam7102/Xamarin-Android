@@ -1,0 +1,12 @@
+DataSqLite.ViewHolder, DataSqLite;md50df9da4d598d0aa553f51d46ef98d4a1.ViewHolder
+DataSqLite.ViewHolder, DataSqLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50df9da4d598d0aa553f51d46ef98d4a1.ViewHolder
+DataSqLite.ViewHolder;md50df9da4d598d0aa553f51d46ef98d4a1.ViewHolder
+datasqlite.ViewHolder;md50df9da4d598d0aa553f51d46ef98d4a1.ViewHolder
+DataSqLite.ListViewAdapter, DataSqLite;md50df9da4d598d0aa553f51d46ef98d4a1.ListViewAdapter
+DataSqLite.ListViewAdapter, DataSqLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50df9da4d598d0aa553f51d46ef98d4a1.ListViewAdapter
+DataSqLite.ListViewAdapter;md50df9da4d598d0aa553f51d46ef98d4a1.ListViewAdapter
+datasqlite.ListViewAdapter;md50df9da4d598d0aa553f51d46ef98d4a1.ListViewAdapter
+DataSqLite.MainActivity, DataSqLite;md50df9da4d598d0aa553f51d46ef98d4a1.MainActivity
+DataSqLite.MainActivity, DataSqLite, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50df9da4d598d0aa553f51d46ef98d4a1.MainActivity
+DataSqLite.MainActivity;md50df9da4d598d0aa553f51d46ef98d4a1.MainActivity
+datasqlite.MainActivity;md50df9da4d598d0aa553f51d46ef98d4a1.MainActivity

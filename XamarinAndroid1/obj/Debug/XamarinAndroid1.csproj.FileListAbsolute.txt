@@ -1,0 +1,13 @@
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\bin\Debug\XamarinAndroid1.dll
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\bin\Debug\XamarinAndroid1.pdb
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\bin\Debug\XamarinAndroid1.XamarinAndroid1.apk
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\bin\Debug\XamarinAndroid1.XamarinAndroid1-Signed.apk
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\XamarinAndroid1.dll
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\XamarinAndroid1.pdb
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\android\bin\XamarinAndroid1.XamarinAndroid1.apk
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\res\layout\listview_row.xml
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\res\layout\main.xml
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\res\values\strings.xml
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\res\drawable\icon.png
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\R.cs.flag
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\XamarinAndroid1\obj\Debug\uploadflags.txt

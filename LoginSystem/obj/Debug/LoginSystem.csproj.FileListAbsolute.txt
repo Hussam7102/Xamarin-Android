@@ -1,0 +1,17 @@
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\bin\Debug\LoginSystem.dll
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\bin\Debug\LoginSystem.pdb
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\bin\Debug\LoginSystem.LoginSystem.apk
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\bin\Debug\LoginSystem.LoginSystem-Signed.apk
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\LoginSystem.dll
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\LoginSystem.pdb
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\android\bin\LoginSystem.LoginSystem.apk
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\res\layout\main.xml
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\res\values\strings.xml
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\res\drawable\icon.png
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\R.cs.flag
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\uploadflags.txt
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\res\drawable\buttonsigninstyle.xml
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\LoginSystem.csprojResolveAssemblyReference.cache
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\res\layout\dialogfragment.xml
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\bin\Debug\LoginSystem.dll.mdb
+C:\Users\Hussam7102\Documents\Visual Studio 2017\Projects\XamarinAndroidApps\LoginSystem\obj\Debug\android\assets\LoginSystem.dll.mdb

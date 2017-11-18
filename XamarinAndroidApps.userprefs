@@ -1,0 +1,12 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginSystem\Resources\layout\Main.axml">
+    <Files>
+      <File FileName="LoginSystem\Resources\layout\Main.axml" Line="52" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
